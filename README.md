@@ -20,11 +20,12 @@ Salut jeune (ou moins jeune 👴) moussaillon, je te présente la version améli
 J'espère que tu en feras bon usage, bon courage 😉
 
 ## Installation
+PATCH: Strapi 4.24.2
 
 Avec npm :
 ```shell
-git clone git@github.com:Beygs/shmeeter-server.git
-cd shmeeter-server
+git clone git@github.com:annieherieau/mini-social-network-api
+cd mini-social-network-api
 npm i
 npm run develop
 ```
